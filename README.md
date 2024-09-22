@@ -4,7 +4,7 @@ This project implements a 2D Fire Rescue Simulation using Python and Pygame, whe
 
 ## Overview
 
-The agent spawns at the bottom right of the room and has to reach the victim and carry him outside of the burning room through the same door the agent entered through.
+The agent spawns at the bottom right of the room and has to reach the victim and carry the victim outside of the burning room through the same door the agent entered through.
 
 <div align="center">
     <img src="Fire_Rescue_Sim/Simulation.png" alt="Simulation" />
